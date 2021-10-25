@@ -4,6 +4,7 @@ To do: **Platform cooperative**
 
 ### Overview
 Platform for projects: join communities created around initiatives that need support. Discuss ideas, publicly cooperate on tasks, supply projects, and get rewards for your involvement from open pool prizes. The goal is to create a system by improving this website, developing software for collaboration, preparing rules of democratic project management, and founding organization to incubate ideas.
+* [GitHub](https://github.com/2donet/2do.net)
 * [Discord](https://discord.gg/f3VsnSR3NM)
 * [Reddit](https://reddit.com/r/2donet)
 * [Facebook](https://facebook.com/groups/2donet/)
@@ -49,6 +50,7 @@ Credits: [Platform cooperativism](https://rosalux.nyc/wp-content/uploads/2020/11
 ## Done
 * **Prototype** - www hosted on Wordpress.com using Directorist plugins and theme
 * **Social Media cooperatives**
+  * [GitHub](https://github.com/2donet/2do.net)
   * [Discord](https://discord.gg/f3VsnSR3NM)
   * [Reddit](https://reddit.com/r/2donet)
   * [Facebook](https://facebook.com/groups/2donet/)
